@@ -1,2 +1,2 @@
 # vs-merge-clinic
-Project status: baseline
+Project status: local draft
