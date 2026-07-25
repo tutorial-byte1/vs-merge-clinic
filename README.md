@@ -1,2 +1,2 @@
 # vs-merge-clinic
-Project status: local draft
+Project status: local draft; remote update received
